@@ -1,0 +1,1 @@
+const PROPERTIES = new Properties()
